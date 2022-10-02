@@ -1,2 +1,2 @@
 # odin-recipes
-How to make delicious galbi-jim
+How to make delicious galbi-jim!
